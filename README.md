@@ -1,3 +1,9 @@
+#### Table of Contents
+
+* [Importing your Assignment into Eclipse](https://github.com/WilcoxAPCS/intro-to-git/blob/master/README.md#importing-your-assignment-into-eclipse)
+* [Uploading your Changes to Github](https://github.com/WilcoxAPCS/intro-to-git/blob/master/README.md#uploading-your-changes-to-github)
+* [Understanding GitHub](https://github.com/WilcoxAPCS/intro-to-git/blob/master/README.md#understanding-github)
+
 #### Importing your Assignment into Eclipse
 
 
