@@ -27,7 +27,7 @@
 
 ![](https://lh3.googleusercontent.com/muzdo8aO-SZQp09xSZg45Ogfp_GYpD93_uchbguLNxkq2yoT8xQxJp3PS8JjQa1O2Fs7_xh65rLXMhva3JwVkz-izKkNwCx2ejUmN4Up4nhBzWMf1eDCMRwHDq18S2XQRPcpuLCD3L7QHmsnTmjzX_FBZnT6juGnhx7jOJ0OFzaIHrrtrTudv9onoxLJAU4Sxc0Pdajg-a0aXwIiewl23X0o149mbqr1jU1ORdvahkWe65KAwoXD3kb9Ie8d2bMiaQS0yKIyc0WvTp0KnNvlyDYx7wVVXESLkHaSqNiFSw_PraTL_5M3pO3iFysyIw0ORDwPV1owmtOWQqUb8NAEqxvhK5E2DudeIq-oU7cqeec_qEfYVQ_RncggrTu7i9qOrZlwlXYLiFjnGteLhNd3XHAt0rCxaJLh2tYFF0gaxmGE5xyLMbPg5X4TYv2hhYjIwX6Tzdmj6KtHqCG1q_hyJ2Dzz_Ecmnkk-0tYefbIiPe7jjbc5vS5MuKh_puzF05p6jWO0frPGFUX1OwtKlpQ9yN_oVRUJXw48xeXOTbNp55eGjZfUVRw4xi_3X51CtExgksytbA6eTfDh5ByxT2cWltHT2hahj01y_oSe2P-=w1246-h1104-no)
 
-7. For `Select a wizard to use for importing projects`, make sure Import existing Eclipse projects is elected, then Next.
+7. For `Select a wizard to use for importing projects`, make sure Import existing Eclipse projects is selected, then Next.
 
 ![](https://lh3.googleusercontent.com/MQudi6GxrZ9-pvvIFcQ5Hivj2c1xj5ST8HB0SOvfJ57HofxKlzmTCcR75pqnrEqokQfBUyX-RG8lwQHdxc4vi6mUq37E4XgNEoqLjH1dbffS0FkDl4sCwg_6_AvVHqpV2CAjZQgpxiCRfUsphFkX9gAqvhICM-ARWg3WtxH_4u3hnB1D4ZN_WgER89D_kut-H-Ac9BPWysMOfBZvyL6r5lA1ga8ZmL7qNz4SYq2nFTNiAeQK_a1S5uzUY9fRdisCnQQTqm_3YKLah8SQVHMg6GrnriP7-DaU2mLJXnXXIzKHwExH2hQf_deWHlBFgj-XhKEoAs5K4_QEawRXdJWiT4U9UcV_jvaWV_nVp77gBbc56UEEe18ONDiAPnqucxc4jSFOhGssUg01rje8q4gHoJLid_fCmvkRibkAqggOC0NJ_yM8HxMi3N346hn0D0ylnX3iNkGKwgUj3jdjufMkcLn4r5iejxjpePvEUqqJaGMAwVYynRyhYTMriyZqwD2R5ORWr4F7jKuA9r77Nrcx5HjS5pBhMVhvjp1U1U_cwpDOREQJOa6mJTfcxO9-bk2J_AwGf51f4FYcF4ix8Joq1QN-0EjJSbELpaE_rr94=w1246-h1108-no)
 
@@ -56,3 +56,38 @@
 4. You will be prompted to log in, so Github knows who is making the changes. You should be able to see your changes on your page after this!
 
 ![](https://lh3.googleusercontent.com/qOsUaQCE2cpSXDG9Sm5LLNkK0hh1xBKevUiv-Jei15Jq-D2jfzK0vIcZGcLaz-efHOFQYbzp-GxyH66Z8Y12anXBcAZaIctR_140VxPxK3EpPACeREUGhYZNbv-pfIBNkEZlxVm04VQyD6tg3DTzR1LoaejSATUymlr7I-mNosC8OLDKQoJOmAUXBde_bSdXZgP40z9RbUrBMbVNQv3YSnCx8f7ojzUJJCtY0SjTiEG4Zu0dDCLpuK4kpxddL03WaBj0PCDrBmWk9se3XRJpOk7OowJdPmRPjjuj2iH8zExCz6FUyuVu2r-RobPxS78H0c8PKI8gGVnZmuU2c40odTkrCEdk0VS2lYetp5o040eGmAec9RqZTOlfcVvyKWazYEXyXQWibzBNQW_7dPdkWBin8gmEhVfKeNIhB1zKsi5DQU-Jp8eKIJiN0RkWLxu2KYygSyXi1gHA3W0U5K2z7AbFEnvXXKyozKBa5aDJBHFa1ypKqeuOa5NiCo1bTPwg2P2Y4czfUR_1f2HuUnvqDZK1k8QaKZl5y5bLDB2UOE2T6_lmEz5DLgKNHguWWhNUSK6VvFIUUqOfTQmeEHO2clNdz86YLrIw_Mop5Pq7=w976-h338-no)
+
+#### Understanding GitHub
+
+For class, you can simply follow the instructions above to import and submit your assignments. This section is additional reading for those interested in developing a deeper understanding of Git and the terminology used in the above sections.
+
+**_What is Git?_**
+
+Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. The terminology you have seen in the instructions above (i.e. repository, branch, remote, commit, staged, push) is Git terminology. Version control allows us to easily maintain versions of our code, and collaborate with others.
+
+**_What is GitHub?_**
+
+GitHub is a website where you can upload a copy of your Git repository. It is a Git repository hosting service, which offers all of the distributed revision control and source code management functionality of Git as well as adding its own features. GitHub Classrooms, which is what we are using is one of GitHub's additional features. It is also a standard platform to show off your coding projects!
+
+**_How does it work?_**
+
+We will use this coding assignment as an example.
+
+When you accepted the assignment, a private GitHub private remote repository was created for you, hosted on GitHub. Using Eclipse as an interface, we fetched a local copy of the repository from the host. 
+
+This local Git repository will track your changes, allow you to make commits, and push to the back to the remote repo (the version seen on Github)
+
+![](https://qph.fs.quoracdn.net/main-qimg-3aa29f29ede6a8245b6964f663c60339.webp)
+
+Terminology | Description 
+--- | --- 
+Working Directory | The directory in which you are currently working (i.e. What you are seeing in Eclipse as right now). 
+Staging Area | A place to put all the files you want to commit
+Local Repo | Your local version of the repository.
+Remote Repo | The hosted version of the Repository
+
+Note: In the use case of a private repository where you're working alone, it might not be immediately obvious why we have both a local and a remote repo. *Why not commit straight to remote?* This is because in real life scenarios, there are many cases where you want your local repository changes to be approved before you push to the published remote repo. Another feature often used is branches, which we will not cover as we will simply use the `master` branch, but more information about branches can be found [here](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell).
+
+In Eclipse, when we used the green plus to move Unstaged Changes to Stage changes, it is using the `add` function to move our changes from our working directory to our staging area. Then when 'Commit and Push' was pressed, the `commit` command was used to push changes from our staging area changes to our local repository immediately followed by a `push` command to push our local repository changes to our remote (so we can view our changes on GitHub!).  
+
+The functionality of Git is incredibly rich, and there is much more to learn beyond what is covered here. A list of additional functionality is available on [this page](https://git-scm.com/docs), for those looking to learn more.
