@@ -1,3 +1,20 @@
+### Objective
+
+Learn how to fetch an assignment from Github and upload your changes!
+
+### Task
+
+1. Import this assignment repository into Eclipse
+2. Make a change in the source file, save the file
+3. Upload your changes to Github
+4. Confirm your changes have been uploaded on Github by visiting your repository. 
+   This confirms your assignment has been submitted.
+   (https://github.com/WilcoxAPCS/introduction-to-github-yourusername)
+   
+#### Before you start
+
+- If your workspace already has a project called `HelloWorld`, the import will not complete properly due to namespace conflict! Either open your Eclipse in a new workspace upon startup, or right click on your HelloWorld project (not the Java file, the folder) and hit 'Delete'; the default option will remove the project from your Eclipse workspace, but not on the computer.
+
 ### Table of Contents
 
 * [Importing your Assignment into Eclipse](https://github.com/WilcoxAPCS/intro-to-git/blob/master/README.md#importing-your-assignment-into-eclipse)
